@@ -1,0 +1,26 @@
+{
+  "name": "component-showcase",
+  "version": "1.0.0",
+  "description": "a small project to learn/develop basic frontend components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack --config webpack/webpack.config.js --colors --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antalutrazvan/component-showcase.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Razvan Antalut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antalutrazvan/component-showcase/issues"
+  },
+  "homepage": "https://github.com/antalutrazvan/component-showcase#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
